@@ -416,6 +416,7 @@
     <icon drawable="@drawable/themed_icon_package_names" package="com.csdroid.pkg"/>
     <icon drawable="@drawable/themed_icon_palette" package="com.ald.devs47.sam.beckman.palettesetups"/>
     <icon drawable="@drawable/themed_icon_pandavpn" package="com.pandavpn.androidproxy"/>
+    <icon drawable="@drawable/themed_icon_papers" package="org.evolutionx.papers"/>
     <icon drawable="@drawable/themed_icon_patreon" package="com.patreon.android"/>
     <icon drawable="@drawable/themed_icon_paypal" package="com.paypal.android.p2pmobile"/>
     <icon drawable="@drawable/themed_icon_paypal_business" package="com.paypal.merchant.client"/>
